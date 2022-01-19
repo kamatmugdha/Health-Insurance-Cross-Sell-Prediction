@@ -34,11 +34,11 @@ Model Building
 ## Model Insights:
 The usual assumption of older the customer, greater is the possibility of wanting health insurance proved to be wrong here.
 
-<img src="https://user-images.githubusercontent.com/img/AgeVsResponse.PNG" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/img/AgeVsResponse.PNG" width="100" height="200">
 Gen X (age group : 30 to 45) seems to be the generation that's most likely to be  interested (21%) with vehicle insurance.
-<img src="https://user-images.githubusercontent.com/img/CarDamageVsResponse.PNG" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/img/CarDamageVsResponse.PNG" width="100" height="200">
 Also, the customers without any previous car insurance are more interested in getting health insurance.
-<img src="https://user-images.githubusercontent.com/img/VehicleInsuranceVsResponse.PNG" width= 50% height=50%>
+<img src="https://user-images.githubusercontent.com/img/VehicleInsuranceVsResponse.PNG" width="100" height="200">
 It was also observed that customers with a previous car damage are more interested in getting the health insurance rather than the ones without any damage.
 ## Machine learning performance:
 Among Logistic Regression and Random Forest, the chosen model was Random Forest. Here our focus was on Recall rather than accuracy as we wanted to reduce the False Negatives. The model was also tuned to improve the parameters due to its high recall of 90%.
