@@ -34,11 +34,11 @@ Model Building
 ## Model Insights:
 The usual assumption of older the customer, greater is the possibility of wanting health insurance proved to be wrong here.
 
-<img src="https://user-images.githubusercontent.com/img/AgeVsResponse.PNG" width="150" height="280"/>
+<img src="https://user-images.githubusercontent.com/img/AgeVsResponse.PNG" width="150" height="280" />
 Gen X (age group : 30 to 45) seems to be the generation that's most likely to be  interested (21%) with vehicle insurance.
-<img src="https://user-images.githubusercontent.com/img/CarDamageVsResponse.PNG" width="150" height="280"/>
+<img src="https://user-images.githubusercontent.com/img/CarDamageVsResponse.PNG" width="150" height="280" />
 Also, the customers without any previous car insurance are more interested in getting health insurance.
-<img src="https://user-images.githubusercontent.com/img/VehicleInsuranceVsResponse.PNG" width="150" height="280"/>
+<img src="https://user-images.githubusercontent.com/img/VehicleInsuranceVsResponse.PNG" width="150" height="280" />
 It was also observed that customers with a previous car damage are more interested in getting the health insurance rather than the ones without any damage.
 
 ## Machine learning performance:
