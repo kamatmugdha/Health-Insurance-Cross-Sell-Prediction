@@ -34,7 +34,7 @@ Model Building
 ## Model Insights:
 The usual assumption of older the customer, greater is the possibility of wanting health insurance proved to be wrong here.
 
-<img src="https://github.com/kamatmugdha/Health-Insurance-Cross-Sell-Prediction/tree/main/img/AgeVsResponse" width="50%" height="50%">
+![alt text](img/AgeVsResponse.PNG) 
 Gen X (age group : 30 to 45) seems to be the generation that's most likely to be  interested (21%) with vehicle insurance.
 ![alt text](img/CarDamageVsResponse.PNG) 
 Also, the customers without any previous car insurance are more interested in getting health insurance.
