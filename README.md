@@ -32,7 +32,6 @@ Model Building
 *	Checking Evaluation Matrix for tuned Model
 *	Choose which model has the best recall score for this case
 ## Model Insights:
-The usual assumption of older the customer, greater is the possibility of wanting health insurance proved to be wrong here.
 
 <img src = "img/AgeVsResponse.PNG" width= "400">
 
